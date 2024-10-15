@@ -4,6 +4,7 @@
  */
 package duan_van_eyk_mylib_10;
 
+//Author 
 
 // Imports
 import java.sql.Connection;
@@ -1514,14 +1515,6 @@ public static void closeConnection(Connection connection) {
         }
     }
 }
-
-
- 
-    
-    
-    
-    
-    
-    
+   
     
 }
